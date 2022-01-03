@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.3100762d.chunk.css",
-    "main.js": "/static/js/main.31f27bc1.chunk.js",
-    "main.js.map": "/static/js/main.31f27bc1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.308c05fc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.308c05fc.js.map",
-    "static/css/2.91bfcd09.chunk.css": "/static/css/2.91bfcd09.chunk.css",
-    "static/js/2.d2ddd40d.chunk.js": "/static/js/2.d2ddd40d.chunk.js",
-    "static/js/2.d2ddd40d.chunk.js.map": "/static/js/2.d2ddd40d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.65be25a93abbe77f08340b65abe19014.js": "/precache-manifest.65be25a93abbe77f08340b65abe19014.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.91bfcd09.chunk.css.map": "/static/css/2.91bfcd09.chunk.css.map",
-    "static/css/main.3100762d.chunk.css.map": "/static/css/main.3100762d.chunk.css.map",
-    "static/js/2.d2ddd40d.chunk.js.LICENSE": "/static/js/2.d2ddd40d.chunk.js.LICENSE",
-    "static/js/my-first-worker.b02ed77c.chunk.worker.js": "/static/js/my-first-worker.b02ed77c.chunk.worker.js",
-    "static/js/my-first-worker.b02ed77c.chunk.worker.js.LICENSE": "/static/js/my-first-worker.b02ed77c.chunk.worker.js.LICENSE",
-    "static/js/my-first-worker.b02ed77c.chunk.worker.js.map": "/static/js/my-first-worker.b02ed77c.chunk.worker.js.map"
+    "main.css": "/blazemark/static/css/main.3100762d.chunk.css",
+    "main.js": "/blazemark/static/js/main.62ab4f42.chunk.js",
+    "main.js.map": "/blazemark/static/js/main.62ab4f42.chunk.js.map",
+    "runtime-main.js": "/blazemark/static/js/runtime-main.7e53dbf9.js",
+    "runtime-main.js.map": "/blazemark/static/js/runtime-main.7e53dbf9.js.map",
+    "static/css/2.91bfcd09.chunk.css": "/blazemark/static/css/2.91bfcd09.chunk.css",
+    "static/js/2.390e0e42.chunk.js": "/blazemark/static/js/2.390e0e42.chunk.js",
+    "static/js/2.390e0e42.chunk.js.map": "/blazemark/static/js/2.390e0e42.chunk.js.map",
+    "index.html": "/blazemark/index.html",
+    "precache-manifest.fcf02ac6669a7d17e9e1d77e2b072d86.js": "/blazemark/precache-manifest.fcf02ac6669a7d17e9e1d77e2b072d86.js",
+    "service-worker.js": "/blazemark/service-worker.js",
+    "static/css/2.91bfcd09.chunk.css.map": "/blazemark/static/css/2.91bfcd09.chunk.css.map",
+    "static/css/main.3100762d.chunk.css.map": "/blazemark/static/css/main.3100762d.chunk.css.map",
+    "static/js/2.390e0e42.chunk.js.LICENSE": "/blazemark/static/js/2.390e0e42.chunk.js.LICENSE",
+    "static/js/my-first-worker.e587806b.chunk.worker.js": "/blazemark/static/js/my-first-worker.e587806b.chunk.worker.js",
+    "static/js/my-first-worker.e587806b.chunk.worker.js.LICENSE": "/blazemark/static/js/my-first-worker.e587806b.chunk.worker.js.LICENSE",
+    "static/js/my-first-worker.e587806b.chunk.worker.js.map": "/blazemark/static/js/my-first-worker.e587806b.chunk.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.308c05fc.js",
+    "static/js/runtime-main.7e53dbf9.js",
     "static/css/2.91bfcd09.chunk.css",
-    "static/js/2.d2ddd40d.chunk.js",
+    "static/js/2.390e0e42.chunk.js",
     "static/css/main.3100762d.chunk.css",
-    "static/js/main.31f27bc1.chunk.js"
+    "static/js/main.62ab4f42.chunk.js"
   ]
 }
