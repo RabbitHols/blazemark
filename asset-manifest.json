@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blazemark/static/css/main.a7236a47.chunk.css",
+    "main.css": "/blazemark/static/css/main.280a403b.chunk.css",
     "main.js": "/blazemark/static/js/main.cc65a402.chunk.js",
     "main.js.map": "/blazemark/static/js/main.cc65a402.chunk.js.map",
     "runtime-main.js": "/blazemark/static/js/runtime-main.75da3bb4.js",
@@ -9,10 +9,10 @@
     "static/js/2.572d761a.chunk.js": "/blazemark/static/js/2.572d761a.chunk.js",
     "static/js/2.572d761a.chunk.js.map": "/blazemark/static/js/2.572d761a.chunk.js.map",
     "index.html": "/blazemark/index.html",
-    "precache-manifest.c29f636295f92554eff9e2baefaad2e8.js": "/blazemark/precache-manifest.c29f636295f92554eff9e2baefaad2e8.js",
+    "precache-manifest.0a1d38edde86d90ba8e439fdc24ebaea.js": "/blazemark/precache-manifest.0a1d38edde86d90ba8e439fdc24ebaea.js",
     "service-worker.js": "/blazemark/service-worker.js",
     "static/css/2.91bfcd09.chunk.css.map": "/blazemark/static/css/2.91bfcd09.chunk.css.map",
-    "static/css/main.a7236a47.chunk.css.map": "/blazemark/static/css/main.a7236a47.chunk.css.map",
+    "static/css/main.280a403b.chunk.css.map": "/blazemark/static/css/main.280a403b.chunk.css.map",
     "static/js/2.572d761a.chunk.js.LICENSE": "/blazemark/static/js/2.572d761a.chunk.js.LICENSE",
     "static/js/my-first-worker.2311a747.chunk.worker.js": "/blazemark/static/js/my-first-worker.2311a747.chunk.worker.js",
     "static/js/my-first-worker.2311a747.chunk.worker.js.LICENSE": "/blazemark/static/js/my-first-worker.2311a747.chunk.worker.js.LICENSE",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.75da3bb4.js",
     "static/css/2.91bfcd09.chunk.css",
     "static/js/2.572d761a.chunk.js",
-    "static/css/main.a7236a47.chunk.css",
+    "static/css/main.280a403b.chunk.css",
     "static/js/main.cc65a402.chunk.js"
   ]
 }
