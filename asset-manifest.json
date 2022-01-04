@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/blazemark/static/css/main.a7236a47.chunk.css",
-    "main.js": "/blazemark/static/js/main.a7168a00.chunk.js",
-    "main.js.map": "/blazemark/static/js/main.a7168a00.chunk.js.map",
+    "main.js": "/blazemark/static/js/main.cc65a402.chunk.js",
+    "main.js.map": "/blazemark/static/js/main.cc65a402.chunk.js.map",
     "runtime-main.js": "/blazemark/static/js/runtime-main.75da3bb4.js",
     "runtime-main.js.map": "/blazemark/static/js/runtime-main.75da3bb4.js.map",
     "static/css/2.91bfcd09.chunk.css": "/blazemark/static/css/2.91bfcd09.chunk.css",
-    "static/js/2.8cb604fc.chunk.js": "/blazemark/static/js/2.8cb604fc.chunk.js",
-    "static/js/2.8cb604fc.chunk.js.map": "/blazemark/static/js/2.8cb604fc.chunk.js.map",
+    "static/js/2.572d761a.chunk.js": "/blazemark/static/js/2.572d761a.chunk.js",
+    "static/js/2.572d761a.chunk.js.map": "/blazemark/static/js/2.572d761a.chunk.js.map",
     "index.html": "/blazemark/index.html",
-    "precache-manifest.53bf611f21846feaeae38f498993c24c.js": "/blazemark/precache-manifest.53bf611f21846feaeae38f498993c24c.js",
+    "precache-manifest.c29f636295f92554eff9e2baefaad2e8.js": "/blazemark/precache-manifest.c29f636295f92554eff9e2baefaad2e8.js",
     "service-worker.js": "/blazemark/service-worker.js",
     "static/css/2.91bfcd09.chunk.css.map": "/blazemark/static/css/2.91bfcd09.chunk.css.map",
     "static/css/main.a7236a47.chunk.css.map": "/blazemark/static/css/main.a7236a47.chunk.css.map",
-    "static/js/2.8cb604fc.chunk.js.LICENSE": "/blazemark/static/js/2.8cb604fc.chunk.js.LICENSE",
+    "static/js/2.572d761a.chunk.js.LICENSE": "/blazemark/static/js/2.572d761a.chunk.js.LICENSE",
     "static/js/my-first-worker.2311a747.chunk.worker.js": "/blazemark/static/js/my-first-worker.2311a747.chunk.worker.js",
     "static/js/my-first-worker.2311a747.chunk.worker.js.LICENSE": "/blazemark/static/js/my-first-worker.2311a747.chunk.worker.js.LICENSE",
     "static/js/my-first-worker.2311a747.chunk.worker.js.map": "/blazemark/static/js/my-first-worker.2311a747.chunk.worker.js.map"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.75da3bb4.js",
     "static/css/2.91bfcd09.chunk.css",
-    "static/js/2.8cb604fc.chunk.js",
+    "static/js/2.572d761a.chunk.js",
     "static/css/main.a7236a47.chunk.css",
-    "static/js/main.a7168a00.chunk.js"
+    "static/js/main.cc65a402.chunk.js"
   ]
 }
