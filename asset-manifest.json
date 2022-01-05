@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/blazemark/static/css/main.47182a0c.chunk.css",
-    "main.js": "/blazemark/static/js/main.5044354a.chunk.js",
+    "main.js": "/blazemark/static/js/main.e4e97638.chunk.js",
     "runtime-main.js": "/blazemark/static/js/runtime-main.13123874.js",
     "2.css": "/blazemark/2.css",
     "static/css/2.91bfcd09.chunk.css": "/blazemark/static/css/2.91bfcd09.chunk.css",
@@ -9,7 +9,7 @@
     "2.css.map": "/blazemark/2.css.map",
     "index.html": "/blazemark/index.html",
     "main.css.map": "/blazemark/main.css.map",
-    "precache-manifest.f90b02cdb0cc503ee9c16033332b2eb7.js": "/blazemark/precache-manifest.f90b02cdb0cc503ee9c16033332b2eb7.js",
+    "precache-manifest.24fe89a6dd3504140ce12fd2773362a9.js": "/blazemark/precache-manifest.24fe89a6dd3504140ce12fd2773362a9.js",
     "service-worker.js": "/blazemark/service-worker.js",
     "static/css/2.91bfcd09.chunk.css.map": "/blazemark/static/css/2.91bfcd09.chunk.css.map",
     "static/css/main.47182a0c.chunk.css.map": "/blazemark/static/css/main.47182a0c.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/js/2.b470b0d1.chunk.js",
     "main.css",
     "static/css/main.47182a0c.chunk.css",
-    "static/js/main.5044354a.chunk.js"
+    "static/js/main.e4e97638.chunk.js"
   ]
 }
