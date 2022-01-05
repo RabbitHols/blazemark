@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blazemark/2.css"
   },
   {
-    "revision": "e85368f5e05d2f19e148353ef6a4a865",
+    "revision": "0aa14d8254f9446cfa0afa9875ab1670",
     "url": "/blazemark/index.html"
   },
   {
-    "revision": "4c5c66c1586e2f682b2b",
+    "revision": "4b41d3704515a8214009",
     "url": "/blazemark/main.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blazemark/static/css/2.91bfcd09.chunk.css"
   },
   {
-    "revision": "4c5c66c1586e2f682b2b",
-    "url": "/blazemark/static/css/main.47182a0c.chunk.css"
+    "revision": "4b41d3704515a8214009",
+    "url": "/blazemark/static/css/main.914453ec.chunk.css"
   },
   {
     "revision": "a0afca27074478238a7d",
     "url": "/blazemark/static/js/2.b470b0d1.chunk.js"
   },
   {
-    "revision": "4c5c66c1586e2f682b2b",
-    "url": "/blazemark/static/js/main.e4e97638.chunk.js"
+    "revision": "4b41d3704515a8214009",
+    "url": "/blazemark/static/js/main.7afc227f.chunk.js"
   },
   {
-    "revision": "e8d903ed877adba23dd6821569d65e55",
-    "url": "/blazemark/static/js/my-first-worker.3618b1f1.chunk.worker.js"
+    "revision": "85885d1f52cfe38f26e8bc1002f1b04a",
+    "url": "/blazemark/static/js/my-first-worker.1644d0eb.chunk.worker.js"
   },
   {
     "revision": "9d39294489f0561a71e6",
